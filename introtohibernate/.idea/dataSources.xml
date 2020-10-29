@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="PU_Name/Hibernate" uuid="1221b1b5-8b84-463f-b2af-60c776c5b648">
+    <data-source source="LOCAL" name="soft_uni@localhost" uuid="55efe244-143a-4097-a44a-cd7f7a962be9">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
-      <imported>true</imported>
-      <remarks>Hibernate
-
-C:/Users/betyt/Desktop/SoftUni-Spring-Data/introtohibernate/src/main/resources/META-INF/persistence.xml</remarks>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://localhost:3306/soft_uni?createDatabaseIfNotExist=true&amp;useSSL=false</jdbc-url>
+      <jdbc-url>jdbc:mysql://localhost:3306/soft_uni</jdbc-url>
     </data-source>
   </component>
 </project>
