@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<categories>
+    <category name="Drugs">
+        <productInfoDto>
+            <product-count>5</product-count>
+            <average-price>906.39</average-price>
+            <total-revenue>4531.94</total-revenue>
+        </productInfoDto>
+    </category>
+    <category name="Adult">
+        <productInfoDto>
+            <product-count>5</product-count>
+            <average-price>858.73</average-price>
+            <total-revenue>4293.63</total-revenue>
+        </productInfoDto>
+    </category>
+    <category name="Electronics">
+        <productInfoDto>
+            <product-count>5</product-count>
+            <average-price>776.18</average-price>
+            <total-revenue>3880.89</total-revenue>
+        </productInfoDto>
+    </category>
+    <category name="Garden">
+        <productInfoDto>
+            <product-count>5</product-count>
+            <average-price>763.95</average-price>
+            <total-revenue>3819.76</total-revenue>
+        </productInfoDto>
+    </category>
+    <category name="Weapons">
+        <productInfoDto>
+            <product-count>5</product-count>
+            <average-price>883.45</average-price>
+            <total-revenue>4417.27</total-revenue>
+        </productInfoDto>
+    </category>
+    <category name="For Children">
+        <productInfoDto>
+            <product-count>5</product-count>
+            <average-price>620.43</average-price>
+            <total-revenue>3102.16</total-revenue>
+        </productInfoDto>
+    </category>
+    <category name="Sports">
+        <productInfoDto>
+            <product-count>5</product-count>
+            <average-price>1201.40</average-price>
+            <total-revenue>6007.01</total-revenue>
+        </productInfoDto>
+    </category>
+    <category name="Fashion">
+        <productInfoDto>
+            <product-count>5</product-count>
+            <average-price>670.07</average-price>
+            <total-revenue>3350.35</total-revenue>
+        </productInfoDto>
+    </category>
+    <category name="Autoparts">
+        <productInfoDto>
+            <product-count>5</product-count>
+            <average-price>853.90</average-price>
+            <total-revenue>4269.52</total-revenue>
+        </productInfoDto>
+    </category>
+    <category name="Business">
+        <productInfoDto>
+            <product-count>5</product-count>
+            <average-price>879.40</average-price>
+            <total-revenue>4396.99</total-revenue>
+        </productInfoDto>
+    </category>
+    <category name="Other">
+        <productInfoDto>
+            <product-count>5</product-count>
+            <average-price>454.62</average-price>
+            <total-revenue>2273.08</total-revenue>
+        </productInfoDto>
+    </category>
+</categories>
